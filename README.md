@@ -1,5 +1,5 @@
 # Network_week3
-3nd Week Homework : pcap-test
+3rd Week Homework : pcap-test
 
 Ethernet, IP, TCP header를 headers.h에 선언
 https://www.tcpdump.org/pcap.html 참조
